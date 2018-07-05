@@ -471,7 +471,7 @@ JSX는 다음과 같은 몇 가지 문법 규칙을 가지고 있다. ~~이것 �
 			};
 			return <div style={divStyle}>Hello, React!</div>
 		}
-    }
+    
 
 ## 컴포넌트와 스타일 관리
 ### scss
